@@ -1,0 +1,84 @@
+/* Global Styles */
+body {
+    background-color: black; /* Dark theme */
+    color: white; /* Text color */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px;
+    background: rgba(0, 0, 0, 0.8);
+}
+
+.navbar a {
+    color: gray;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color: white;
+}
+
+/* Hero Section */
+.hero {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.hero p {
+    font-size: 1.2rem;
+    color: rgb(255, 255, 255);
+}
+
+.btn {
+    background-color: rgb(80, 61, 61);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: darkblue;
+}
+
+/* Skills Section */
+.skills {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.skill-box {
+    display: inline-block;
+    background: gray;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+/* Projects Section */
+.projects {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.project-card {
+    background: #222;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+}

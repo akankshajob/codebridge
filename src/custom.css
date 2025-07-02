@@ -1,0 +1,25 @@
+.custom-navbar {
+    background-color: #ff4612 !important; /* Dark Blue */
+}
+
+.custom-btn {
+    background-color: #ff4c29 !important; /* Orange */
+    color: rgb(248, 22, 22) !important;
+}
+
+.custom-card {
+    background-color: #ff0000 !important; /* Dark Gray */
+    color: #ff0000 !important;
+}
+.output-box {
+    background-color: #1e1e1e;
+    color: #00ff00;
+    padding: 1rem;
+    border-radius: 6px;
+    min-height: 120px;
+    font-family: monospace;
+    white-space: pre-wrap;
+    border: 1px solid #444;
+}
+  
+  
