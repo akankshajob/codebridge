@@ -60,21 +60,7 @@
 
 ---
 
-## 🖥️ Operating Environment
 
-**Hardware Requirements**
-- Intel Core i3 or higher
-- 4GB RAM (8GB recommended)
-- 2GB free disk space
-- Stable Internet connection
-
-**Software Requirements**
-- Windows/Linux/macOS
-- Modern Browser (Chrome, Firefox, Edge)
-- VS Code or other preferred IDE
-- Node.js
-- MySQL
-- npm
 
 ---
 
