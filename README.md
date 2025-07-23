@@ -93,12 +93,12 @@
 ---
 ## 🖼️ Pictures
 <p align="center">
-  <img src="images/hm.png" alt="Home" width="600"><br><br>
-  <img src="images/hm2.png" alt="Home2" width="600"><br><br>
-  <img src="images/hm3.png" alt="Home3" width="600"><br><br>
-  <img src="images/roomid.png" alt="Home4" width="600"><br><br>
-  <img src="images/roomid2.png" alt="Home5" width="600"><br><br>
-  <img src="images/insideroom.png" alt="Home6" width="600"><br><br>
+  <img src="public/hm.png" alt="Home" width="600"><br><br>
+  <img src="public/hm2.png" alt="Home2" width="600"><br><br>
+  <img src="public/hm3.png" alt="Home3" width="600"><br><br>
+  <img src="public/roomid.png" alt="Home4" width="600"><br><br>
+  <img src="public/roomid2.png" alt="Home5" width="600"><br><br>
+  <img src="public/insideroom.png" alt="Home6" width="600"><br><br>
 </p>
 
 ## ⚙️ Database Tables
